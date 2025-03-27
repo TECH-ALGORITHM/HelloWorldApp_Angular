@@ -1,0 +1,34 @@
+.container {
+  text-align: center;
+  font-size: x-large;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 25%;
+  cursor: pointer;
+}
+
+.input-container {
+  margin-top: 20px;
+}
+
+.error-output {
+  margin-left: 10px;
+  font-size: 12px;
+  font-style: italic;
+  color: red;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  margin-top: 10px;
+  width: 60%;
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
